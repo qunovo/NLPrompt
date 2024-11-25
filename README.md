@@ -1,5 +1,7 @@
 # NLPrompt: Noise-Label Prompt Learning for Vision-Language Models
 
+![NLPrompt Framework](https://raw.githubusercontent.com/qunovo/images/main/NLPrompt-framework.png?token=AW4XMJHFQDTA552W5HC4JBLHIRP4S)
+
 ## How to Install
 
 This code is built on top of the [CoOp](https://github.com/KaiyangZhou/CoOp). Please follow their steps to configure the runtime environment. Many thanks for their contributions!
