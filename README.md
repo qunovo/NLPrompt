@@ -1,5 +1,7 @@
 # NLPrompt: Noise-Label Prompt Learning for Vision-Language Models
 
+This is the implementation of our paper [NLPrompt: Noise-Label Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2412.01256). 
+
 ![NLPrompt Framework](https://github.com/qunovo/NLPrompt/blob/master/NLPrompt-framework.png?raw=true)
 
 ## How to Install
