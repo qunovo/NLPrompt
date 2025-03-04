@@ -1,4 +1,4 @@
-# NLPrompt: Noise-Label Prompt Learning for Vision-Language Models
+# NLPrompt: Noise-Label Prompt Learning for Vision-Language Models (CVPR 2025)
 
 This is the implementation of our paper [NLPrompt: Noise-Label Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2412.01256). 
 
