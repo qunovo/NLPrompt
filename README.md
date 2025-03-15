@@ -56,7 +56,7 @@ Below we provide examples on how to run NLPrompt on the Caltech101 dataset:
 
 where the first parameter is the name of the dataset, the second parameter is the number of shots, the third parameter is the noise rate, the fourth parameter is the type of noise and the last parameter is the number of categories of the dataset.
 
-After the experiments, all the results are saved to `output/`
+After the experiments, all the results are saved to `output/`.
 
 ## Citation
 
