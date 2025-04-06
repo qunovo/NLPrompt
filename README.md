@@ -1,6 +1,6 @@
-# NLPrompt: Noise-Label Prompt Learning for Vision-Language Models (CVPR 2025)
+# NLPrompt: Noise-Label Prompt Learning for Vision-Language Models (CVPR 2025 Highlight)
 
-This is the official PyTorch implementation for the CVPR 2025 paper: [NLPrompt: Noise-Label Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2412.01256). 
+This is the official PyTorch implementation for the CVPR 2025 highlight paper: [NLPrompt: Noise-Label Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2412.01256). 
 
 ![NLPrompt Framework](https://github.com/qunovo/NLPrompt/blob/master/NLPrompt-framework.png?raw=true)
 
@@ -26,7 +26,7 @@ conda install pytorch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 pytorch-cuda=
 cd Dassl.pytorch/
 pip install -r requirements.txt
 
-# Install this library (no need to re-build if the source code is modified)
+# Install this library 
 python setup.py develop
 
 cd ..
