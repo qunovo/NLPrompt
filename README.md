@@ -61,3 +61,14 @@ After the experiments, all the results are saved to `output/`.
 ## Citation
 
 If you find our work useful in your research, please consider citing it!
+
+```
+@inproceedings{pan2025nlprompt,
+  title={NLPrompt: Noise-Label Prompt Learning for Vision-Language Models},
+  author={Pan, Bikang and Li, Qun and Tang, Xiaoying and Huang, Wei and Fang, Zhen and Liu, Feng and Wang, Jingya and Yu, Jingyi and Shi, Ye},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={19963--19973},
+  year={2025}
+}
+```
+
