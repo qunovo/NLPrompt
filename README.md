@@ -11,6 +11,7 @@ Make sure [conda](https://www.anaconda.com/distribution/) is installed properly.
 ```bash
 # Clone this repo
 git clone https://github.com/qunovo/NLPrompt.git
+cd NLPrompt/Dassl.pytorch
 
 # Create a conda environment
 conda create -y -n nlprompt python=3.8
@@ -23,7 +24,6 @@ conda activate nlprompt
 conda install pytorch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 pytorch-cuda=12.1 -c pytorch -c nvidia
 
 # Install dependencies
-cd Dassl.pytorch/
 pip install -r requirements.txt
 
 # Install this library 
