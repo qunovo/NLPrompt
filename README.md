@@ -60,7 +60,7 @@ After the experiments, all the results are saved to `output/`.
 
 ### Script Configuration (No Hardcoded Path Required)
 
-Both `scripts/nlprompt/main.sh` and `scripts/nlprompt/parallel_main.sh` accept runtime parameters:
+`scripts/nlprompt/main.sh` accepts runtime parameters:
 
 ```bash
 bash scripts/nlprompt/main.sh <DATASET> <SHOTS> <RATE> <TYPE> <CLASS>
@@ -84,12 +84,6 @@ REG_E_LIST="0.001 0.01" \
 LR_LIST="0.0005 0.001" \
 bash scripts/nlprompt/main.sh caltech101 16 0.5 sym 100
 ```
-
-For multi-GPU runs (`parallel_main.sh`), extra variables are supported:
-
-- `GPU_IDS`: GPU id list (default `0 1 2 3 4 5 6 7`)
-- `REG_E_VALUES`: one value per GPU in order
-- `SEED`: single seed used by all launched jobs
 
 ### CLIP Weights Resolution
 
